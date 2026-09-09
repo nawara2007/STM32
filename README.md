@@ -1,6 +1,6 @@
 # STM32 Low Voltage Telemetry & Control System
 
-This repository contains the firmware and simulation implementations for the three STM32 technical milestones assigned by the ASU Racing Team Low Voltage sub-team[cite: 1]. Each milestone is structured as an independent STM32CubeIDE project with corresponding simulation files[cite: 1].
+This repository contains the firmware and simulation implementations for the three STM32 technical milestones assigned by the ASU Racing Team Low Voltage sub-team. Each milestone is structured as an independent STM32CubeIDE project with corresponding simulation files.
 ---
 
 ## Hardware & Simulation Notes (Milestone 3)
@@ -15,4 +15,4 @@ This repository contains the firmware and simulation implementations for the thr
 
 * **IDE:** STM32CubeIDE V1.19[cite: 1]
 * **HAL Driver:** STM32F1xx HAL Driver Package[cite: 1]
-* **Simulation:** Proteus 8 Professional with STM32 VSM library support[cite: 1]
+* **Simulation:** Proteus 8 Professional with STM32 VSM library support, and BluePill Library[cite: 1]
