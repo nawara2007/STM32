@@ -14,6 +14,6 @@ This repository contains the firmware and simulation implementations for the thr
 
 ## Software & Toolchain Requirements
 
-* **IDE:** STM32CubeIDE V1.19[cite: 1]
-* **HAL Driver:** STM32F1xx HAL Driver Package[cite: 1]
-* **Simulation:** Proteus 8 Professional with STM32 VSM library support, and BluePill Library[cite: 1]
+* **IDE:** STM32CubeIDE V1.19
+* **HAL Driver:** STM32F1xx HAL Driver Package
+* **Simulation:** Proteus 8 Professional with STM32 VSM library support, and BluePill Library
