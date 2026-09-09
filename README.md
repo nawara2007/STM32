@@ -2,19 +2,6 @@
 
 This repository contains the firmware and simulation implementations for the three STM32 technical milestones assigned by the ASU Racing Team Low Voltage sub-team[cite: 1]. Each milestone is structured as an independent STM32CubeIDE project with corresponding simulation files[cite: 1].
 
----
-
-## Repository Structure
-
-* `Milestone_1/` – STM32CubeIDE project for GPIO verification[cite: 1]
-* `Milestone_2/` – STM32CubeIDE project for dual ADC monitoring via UART[cite: 1]
-* `Milestone_3/`
-  * `Master/` – SPI Master controller with UART command interface[cite: 1]
-  * `Slave/` – SPI Slave telemetry sensor node[cite: 1]
-* `Simulation/` – Proteus schematic designs (`.pdsprj`) and compiled binary/hex files[cite: 1]
-
----
-
 ## Milestone Overviews
 
 ### Milestone 1: Toolchain Validation & LED Blinking
